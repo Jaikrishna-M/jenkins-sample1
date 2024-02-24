@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "this is a sample script"
+echo "Welcome to devops"
+
