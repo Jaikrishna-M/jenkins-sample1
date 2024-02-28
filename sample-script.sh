@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Welcome to devops..."
+echo "Automate tricked iw worked..."
 
